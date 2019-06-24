@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "For a more comprehensive list of skills, please request a resume from the contact form at the bottom of this site."
 
 # Showcase personal skills or business features.
 # 
@@ -18,18 +18,30 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  
+[[feature]]
+  icon = "dice-d20"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Mathematics"
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
 
 +++
