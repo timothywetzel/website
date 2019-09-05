@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-05-30"
   date_end = ""
-  description = "Hackathon Award: Best Teamwork"
+  description = "Certificate of Achievement for Outstanding Achievement"
   
 [[item]]
   organization = "Northrop Grumman"
