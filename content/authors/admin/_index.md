@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Tim Wetzel is a technical professional looking for data science and engineering opportunities in the Seattle mtetro area. He is currently a technical lead at Northrop Grumman and student at the University of Washington (online).
+Tim Wetzel is a technical professional looking for data science and engineering opportunities in the Seattle metro area. He is currently a technical lead at Northrop Grumman and student at the University of Washington (online).
