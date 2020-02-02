@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: MS in Statistics
+  - course: Statistics (Non-degree student)
     institution: University of Colorado, Denver
-    year: in progress
+    year: 2018-19
   - course: BS in Mathematics
     institution: George Mason University
     year: 2015
@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Tim Wetzel is an aspiring statistician & data scientist. He is currently a technical lead at Northrop Grumman and a student at the University of Colorado, Denver.
+Tim Wetzel is a technical professional looking for data science and engineering opportunities in the Seattle mtetro area. He is currently a technical lead at Northrop Grumman and student at the University of Washington (online).
